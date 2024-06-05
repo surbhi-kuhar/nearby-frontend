@@ -1,1 +1,1 @@
-export const server="http://localhost:8000/api/v1";
+export const server="https://nearby-backend-t8hx.onrender.com/api/v1";
